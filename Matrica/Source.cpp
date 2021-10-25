@@ -6,7 +6,7 @@
 #include <locale>
 #include <conio.h>
 using namespace std;
-//hi
+//hello
 int main() {
 	int n, m, result;		// размерность матрицы
 	setlocale(LC_ALL, "Russian");
